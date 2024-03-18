@@ -9,6 +9,5 @@
 
 2. java setup
    the application is built on java 8
-   compile the Main.java in the src/ folder with the command
-   javac -d bin src/Main.java
-   
+   compile the Main.java in the src/ folder 
+   run the application, the program will call getAllStudents(), addStudent(), updateStudentEmail() deleteStudent() each once
