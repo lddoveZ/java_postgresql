@@ -14,3 +14,6 @@
    1. open the hold package as an intellij idea project
    2. run mvn compile in the root directory (where pom.xml is located) to compile.class file in the target/classes directory
    run the application, the program will call getAllStudents(), addStudent(), updateStudentEmail() deleteStudent() each once
+
+
+youtube link for demonstration: https://www.youtube.com/watch?v=9j0XLieOlpA&feature=youtu.be
